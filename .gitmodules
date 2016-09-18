@@ -1,0 +1,6 @@
+[submodule "pub"]
+	path = pub
+	url = https://github.com/simplydk/simplydk.github.io
+[submodule "public"]
+	path = public
+	url = https://github.com/simplydk/simplydk.github.io
