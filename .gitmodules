@@ -4,3 +4,9 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/simplydk/simplydk.github.io
+[submodule "themes/hugo_theme_aglaus"]
+	path = themes/hugo_theme_aglaus
+	url = https://github.com/simplydk/hugo_theme_aglaus
+[submodule "themes/hugo_theme_robust"]
+	path = themes/hugo_theme_robust
+	url = https://github.com/simplydk/hugo_theme_robust
