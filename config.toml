@@ -1,0 +1,6 @@
+baseurl = "https://simplydk.github.io/bookshelf"
+languageCode = "en-us"
+title = "DK's New Things"
+
+[Params]
+  Author = "DK Nguyen"
