@@ -1,6 +1,6 @@
 baseurl = "http://www.thequiettofu.com/"
 languageCode = "en-us"
-title = "DK's New Things"
+title = "The Quiet Tofu"
 
 [Params]
   Author = "DK Nguyen"
